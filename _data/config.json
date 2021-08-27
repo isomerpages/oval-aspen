@@ -69,5 +69,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://oval-aspen-86b61.netlify.app"
 }
